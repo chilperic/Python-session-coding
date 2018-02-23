@@ -1,0 +1,22 @@
+'''
+1. Generate random Number
+2. Between 0.5x10^6 and 10x10^7
+3. print the gen numbers
+'''
+import numpy, random, csv
+
+#Function to generate numbers between ......
+def gen_numbers(n):
+	rand_numbers = []
+        for i in range(n):
+                random.seed()
+		rand_numbers.append(random.uniform(0.5*10**6,10*10**7))
+	return rand_numbers
+
+
+#function call, argument is the number of values you want.
+get_list = gen_numbers(100)
+#save numbers into a csv file
+myfile = open('number.csv', 'wb')
+wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+wr.writerow(get_list)

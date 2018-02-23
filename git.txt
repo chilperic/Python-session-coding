@@ -1,0 +1,24 @@
+You have now been introduced to the fundamental Git workflow. You learned a lot! Let's take a moment to generalize:
+
+Git is the industry-standard version control system for web developers
+Use Git commands to help keep track of changes made to a project:
+git init creates a new Git repository
+git status inspects the contents of the working directory and staging area
+git add adds files from the working directory to the staging area
+git diff shows the difference between the working directory and the staging area
+git commit permanently stores file changes from the staging area in the repository
+git log shows a list of all previous commits
+
+
+
+
+
+
+
+In my field of study which is Biomathematics, the stochastic differential equations and stochastic partial differential equations are of paramount importance. The understanding and mastering of certain biological systems require stochastic modeling. The models obtained must be subjected to an analysis in order to be able to produce insight or outcomes.
+
+In my field of interest, which is to understand the dynamics of the cells of the immune system( notably the T lymphocytes) is strongly linked to random processes. This because the destiny of a cell (division or death) is not yet well understood and seems to follow a random pattern, thus follows a stochastic process Very little known. Therefore, the development of new stochastic tools would be a push in understanding the parameters that govern the proliferation of T- cells, In addition, the new tools of stochastic analysis could give more results.
+
+Participation in this school will allow me, on the one hand, to have an overview of the new advances in the field of Stochastics, on the other hand, to exchange with other participants and especially the specialist of the field. This will have a great impact on my current and future work. This school is also an open door to future collaboration and fruitful exchanges.
+
+I think I am aware of the task involved in participating in this school and believe that I have the determination to succeed. I am confident that my strong passion and motivation will enable me to overcome the challenges that your school presents both academically and socially and I am ready to pick up that challenge.

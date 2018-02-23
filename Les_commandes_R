@@ -1,0 +1,1 @@
+ mydata <- mydata[,colnames(mydata)!="Time"] #supprimer X3 et c'est pareil
